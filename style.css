@@ -1,0 +1,37 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(192, 189, 189);
+}
+#main{
+    text-align: center;
+}
+h3{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+img{
+    width: 50%;
+}
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+    background-color: rgb(230, 203, 203);
+}
+p{
+    padding-top: 20px;
+    font-weight: 500;
+}
+p a{
+    background-color: red;
+    padding: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
